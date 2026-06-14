@@ -1,0 +1,20 @@
+# blacklist
+
+# protectt.ai
+mobile.protectt.ai
+t2.protectt.ai
+
+# zimperium
+cdn.zimperium.com
+edge.zimperium.com
+stest.zimperium.com
+vpbank.zimperium.com
+zapac-rfd.zimperium.com
+ziapprod-rfd.zimperium.com
+ziap.zimperium.com
+zimperium.com
+
+# brimo tai
+s3.brimo.nsgt.bri.co.id
+
+# EOF
