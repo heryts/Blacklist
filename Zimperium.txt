@@ -17,4 +17,7 @@
 # brimo tai
 ||s3.brimo.nsgt.bri.co.id^
 
+# paytm
+||paytmdefender.bugsmirror.com^
+
 # EOF
