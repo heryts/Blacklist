@@ -9,6 +9,7 @@
 ||edge.zimperium.com^
 ||stest.zimperium.com^
 ||vpbank.zimperium.com^
+||zapac.zimperium.com^
 ||zapac-rfd.zimperium.com^
 ||ziapprod-rfd.zimperium.com^
 ||ziap.zimperium.com^
