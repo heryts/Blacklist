@@ -22,7 +22,6 @@
 ||paytmdefender.bugsmirror.com^
 
 # bhim
-||bd603a1acebc48ff.threatcast.guardsquare.com^
 ||threatcast.guardsquare.com^
 
 # EOF
