@@ -20,6 +20,7 @@
 
 # paytm
 ||paytmdefender.bugsmirror.com^
+||hawkeye-api.paytm.com^
 
 # bhim
 ||threatcast.guardsquare.com^
