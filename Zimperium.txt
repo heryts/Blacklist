@@ -20,9 +20,9 @@
 
 # paytm
 ||paytmdefender.bugsmirror.com^
-||hawkeye-api.paytm.com^
+# ||hawkeye-api.paytm.com^
 
 # bhim
-||threatcast.guardsquare.com^
+# ||threatcast.guardsquare.com^
 
 # EOF
